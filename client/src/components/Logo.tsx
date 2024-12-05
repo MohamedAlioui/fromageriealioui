@@ -4,7 +4,7 @@ export function Logo() {
   return (
     <div className="flex items-center space-x-2">
       <img 
-        src="/src/assets/images/logo.png" 
+        src="https://i.postimg.cc/p9TgT6nT/logo.png" 
         alt="Fromagerie Logo" 
         className="h-16 w-16"
       />

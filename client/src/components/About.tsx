@@ -17,7 +17,7 @@ export function About() {
           <div>
             <h2 className="text-3xl font-bold mb-6">Notre Histoire</h2>
             <p className="text-gray-600 mb-6">
-              Chez Meriah, la passion du fromage c'est une histoire de famille. Créé en 1997, par Mr Lotfi Meriah, la fromagerie Meriah est connue pour ses produits faits à 100% de lait de ferme, fabriqués par Tunifrom.
+              Chez Fromagerie Alioui, la passion du fromage c'est une histoire de famille. Créé en 2021, par Mr Assil Alioui, la fromagerie alioui est connue pour ses produits faits à 100% de lait de ferme.
             </p>
             <p className="text-gray-600 mb-6">
               Cultivés dans nos propres fermes, nos fromages sont authentiques et préparés en suivant toutes les étapes de production, de la matière première jusqu'à l'affinage.

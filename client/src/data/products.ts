@@ -21,7 +21,7 @@ export const products: Product[] = [
   },
   {
     id: 2,
-    name: "Mozzarella Centra MERIAH",
+    name: "Mozzarella ",
     price: "8.15 TND",
     image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=80",
     rating: 4,
@@ -29,7 +29,7 @@ export const products: Product[] = [
   },
   {
     id: 3,
-    name: "Mozzarella Duo",
+    name: "Mozzarella arbi",
     price: "8.60 TND",
     image: "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?auto=format&fit=crop&w=800&q=80",
     rating: 5,

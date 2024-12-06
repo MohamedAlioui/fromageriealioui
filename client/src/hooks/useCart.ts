@@ -23,7 +23,7 @@ export const useCart = create<CartStore>((set) => ({
     },
     {
       id: 2,
-      name: "Mozzarella Centra MERIAH",
+      name: "Mozzarella Centra ",
       price: "8.15",
       image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=80",
       quantity: 1,
